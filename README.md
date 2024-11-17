@@ -30,5 +30,11 @@ Si no se logra visualizar bien, se puede ver mediante este link: https://www.can
 
 * Dataset: https://github.com/marcusklasson/GroceryStoreDataset
 
+## Pasos para ejecutar el Notebook
+
+* Google Colab: Crear el acceso a la carpeta de Google Drive y descomentar el bloque en el cual se clona el repositorio.
+
+* Visual Studio Code: Descargar la carpeta del repositorio y ejecutar el Notebook desde el bloque comentado de clonar el repositorio.
+
 
 
