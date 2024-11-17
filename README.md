@@ -24,6 +24,8 @@ Mediante el uso de modelos de Machine Learning, en conjunto con técnicas de pre
 * Notebook con toda la implementación
 
 * Presentación de insights
+
+
 Si no se logra visualizar bien, se puede ver mediante este link: https://www.canva.com/design/DAGWnrNS-Lg/uxBpwquy_v0zvK44w4vBMg/edit?utm_content=DAGWnrNS-Lg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 * Dataset: https://github.com/marcusklasson/GroceryStoreDataset
