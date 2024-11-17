@@ -21,9 +21,10 @@ Mediante el uso de modelos de Machine Learning, en conjunto con técnicas de pre
 
 ## Archivos
 
-* Notebook con toda la implementación[https://github.com/santyxd3000/AppliedDataScience-Taller2/blob/main/Taller2CienciaDeDatos.ipynb]
+* [Notebook con toda la implementación](https://github.com/santyxd3000/AppliedDataScience-Taller2/blob/main/Taller2CienciaDeDatos.ipynb)
 
-* Presentación de insights
+* [Presentación de insights](https://github.com/santyxd3000/AppliedDataScience-Taller2/blob/main/Presentaci%C3%B3n_Insights.pdf)
+
 
 
 Si no se logra visualizar bien, se puede ver mediante este link: https://www.canva.com/design/DAGWnrNS-Lg/uxBpwquy_v0zvK44w4vBMg/edit?utm_content=DAGWnrNS-Lg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
