@@ -2,8 +2,8 @@
 
 Clasificación de imágenes en un supermercado inteligente
 
-* Jairo Adolfo Céspedes Plata
-* Santiago Iván Pardo Morales
+* Jairo Adolfo Céspedes Plata - 201912008
+* Santiago Iván Pardo Morales - 202013025
 
 
 ## Contexto del Problema
